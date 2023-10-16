@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning algorithms with Exploratory Data Analysis
+Machine learning algorithms with various data sets
